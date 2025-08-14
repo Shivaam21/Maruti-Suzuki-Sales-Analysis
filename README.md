@@ -1,0 +1,1 @@
+Conducted end-to-end sales data analysis for Maruti Suzuki using Python, Power BI, and statistical methods including sampling, inference, and categorical analysis. Applied SARIMA forecasting and regression models (Decision Tree, Random Forest) to predict units sold with high accuracy, uncovering seasonal trends and actionable insights for business strategy.
